@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-sqlite-framework/tags/2.0.0,androidx-sqlite-framework,40bea0ea6b7c001b173282346c8ede6b;https://github.com/dandar3/android-androidx-sqlite-framework;https://github.com/dandar3/android-androidx-sqlite-framework;branches;tags;trunk;true;02892124-d481-6a7a-ebd8-ce57b7db7bff;https://github.com/dandar3/android-androidx-sqlite-framework;;false;;;0"/>
+</provider>
+</psf>
